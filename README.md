@@ -1,4 +1,3 @@
-#OHHO
 使用Java GridBagLayout布局实现了界面和监听，并实现了将信息存储在文件中
 注册界面，包括file，about,email,password,register，checkinfo,center,color,status
 file:点击显示exit，可退出程序
