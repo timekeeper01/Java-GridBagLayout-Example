@@ -9,3 +9,5 @@
 * register:弹出提示框提示是否成功注册  
 * center:点击时整个窗体位于屏幕中央  
 * color:使得窗体界面颜色在两种颜色中间变换  
+
+   ![](https://img-blog.csdnimg.cn/20190103040131593.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNjEzMzExNw==,size_16,color_FFFFFF,t_70)
